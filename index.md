@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+# Fashionable New Scarves: What to Wear in Autumn-Winter 2020/21
 
-You can use the [editor on GitHub](https://github.com/lrrjfeioror/dowtown.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![Branching](scarves.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+During the arrival of the cold weather we want to warm up as much as possible, but do not forget about the beauty of appearance. In particular, to keep warm and look stylish will help such accessories as scarves. What models will be popular in the season 2020-2021 and how best to wear them?
 
-### Markdown
+In the new season, scarves not only serve as a kind of heating, but also will be an indispensable way to complete any image. They will help to make the look complete and more harmonious, will emphasize its features and the hostess' style.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Branching](scarves_.jpeg)
 
-```markdown
-Syntax highlighted code block
+Nowadays the images are popular, when scarves are worn not only in the cold, but also directly as a beautiful and stylish accessory. In addition, in modern times, an important role is played by combinations with outer or outer clothing, where the emphasis is on accessories and additions.
 
-# Header 1
-## Header 2
-### Header 3
+Speaking about trendy shades, it is worth noting popular colors, such as coral, terracotta, emerald, ash, blue, wine, chocolate and others. Bright, neon scarves and models with original, extraordinary, colorful prints and patterns also burst into fashion.
 
-- Bulleted
-- List
+## Snood
 
-1. Numbered
-2. List
+![Branching](scarves1.png)
 
-**Bold** and _Italic_ and `Code` text
+Over the years, the popularity of this scarf does not fade, and therefore in the season 2020-2021 it too will find a place. Its main advantage is its versatility: you can throw it not only on your shoulders, but also on your head, easily replacing your hat. In addition, snoops are valued not only in the image in the style of Cajual, but also in urban, everyday and business. This season, models with large, textured viscous, as well as complemented by noble colors - blue, ash, scarlet and other colors will be especially popular.
 
-[Link](url) and ![Image](src)
-```
+## Knitted 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![Branching](scarves2.jpg)
 
-### Jekyll Themes
+In the new season, scarves made of large and small knitting have found their display, among others. Single-colored or vice versa, created from several shades, with different variants of interlacing threads or patterns - they perfectly complement the demi season or winter image. Gradients, as well as the cage, stripes, original texture solutions, as well as scarves in the form of a clamp or nightshade knitted - a good solution for the new season.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lrrjfeioror/dowtown.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Overseas
 
-### Support or Contact
+![Branching](scarves3.jpg)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Overseas scarves will also become especially popular in 2020-2021 season. Despite their large size, they only emphasize the elegance and beauty of the figure, as well as miniaturization of girls. It is recommended to pay attention to a very large knitting, or original texture. You can also choose a scarf from cashmere to a classic cage or with a unique print.
+
+## Cashmere 
+
+![Branching](scarves4.jpg)
+
+Traditional and fashionable cashmere scarves were also not without them. In the new season, deep and rich shades in the form of bottle, chocolate, bordeaux, ashes and others will be especially popular. Scarves with different finishing methods are welcome. The traditional cellular variant or striped will not go out of fashion. You can also buy a monochrome, monochrome scarf, or a product with an abstraction or elegant pattern. It is better to wear it over the neck in one turn.
+
+
